@@ -1,0 +1,55 @@
+/* Styling for the form section */
+.form-section {
+    /* align-items: center; */
+    text-align: center;
+    margin-top: 10%;
+    /* background-color: aqua; */
+}
+
+/* Styling for the individual form elements */
+.form-element {
+  margin: 5px;
+  padding: 5px;
+}
+
+/* Styling for the sections */
+/*  */
+/* Styling for the button */
+.button {
+  background-color: black;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+/* Hover effect */
+.button:hover {
+  background-color: #0056b3;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.box{
+  margin-bottom: 20px;
+  width: 200px;
+  border-bottom: 2px solid black;
+}
+
+input{
+  height: 30px;
+  width: 100px;
+  margin: 0 30px;
+  border-bottom: 2px solid black;
+}
+button{
+    height: 30px;
+}
+.btn1{
+  margin: 0 20px;
+  padding: 5px;
+  background-color: rgb(105, 84, 84);
+  color: #ffff;
+  border-radius: 5px;
+}
